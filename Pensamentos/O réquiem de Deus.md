@@ -1,0 +1,5 @@
+Na noite passada tive um sonho em que um casal, cujo não conheço, tinha ido visitar a casa da minha vó, no sítio, e por coincidência eu estava lá. Eles eram um casal católico. Depois do almoço eles haviam dito que iriam à missa, eu perguntei se poderia ir com eles, aceitaram tranquilamente.
+Fomos à missa. Lá havia muitos frades, tinham um manto de cor marrom, mas o estilo parecia com o dos Arautos do Evangelho. Um estava sentado ao meu lado. 
+Chegou a hora do réquiem. O frade sentado ao meu lado levantou-se e disse com uma voz firme como a de um general: "Eu não aceito menos de quinhentas notas", ele estava referindo-se a notas musicais. Caminhou até o altar que, por sinal, havia muito frades. Era um altar grande e lindo. Estávamos em uma grande igreja.
+Como o réquiem era não sei dizer, mas a única coisa que consigo descrever era que as vozes dos frades pareciam, de forma absoluta e extraordinariamente, angelicais! Arrepiei-me por completo várias vezes. Lembro-me de ter ficado paralisado, atônito com o que acontecia.
+Ao acordar do sonho senti-me como o Tartini, que tentou infinitas vezes reproduzir "La sonata del diablo". 

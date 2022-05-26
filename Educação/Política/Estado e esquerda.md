@@ -1,0 +1,1 @@
+O estado sempre tende a ir para a esquerda, pois a esquerda é uma ideologia que busca a totalidade do estado.
