@@ -1,0 +1,84 @@
+{
+  "main": {
+    "id": "3df0b860cb96d07c",
+    "type": "split",
+    "children": [
+      {
+        "id": "83362cad04a4bf9d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tópicos/Lista de autores para ler.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db89f0454fb51fb4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "65730ff18fc12d6e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "23c6e1a1747fc93a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4d32569d28c87b86",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "52c78e72a2e05008",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Tópicos/Lista de autores para ler.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "83362cad04a4bf9d",
+  "lastOpenFiles": [
+    "Tópicos/Lista de autores para ler.md",
+    "Tópicos/Desânimo.md",
+    "Pensamentos/A pregação do mundo moderno.md",
+    "Pensamentos/Até eu dar de cara comigo mesmo.md",
+    "Pensamentos/Somos um problema?.md",
+    "Pensamentos/Ser humano e padrões.md"
+  ]
+}
