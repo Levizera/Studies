@@ -1,3 +1,0 @@
-# A existência das coisas
-
-Tudo que existe, existe por si mesmo. O homem não inventou a matemática, ele a descobriu, assim como os gregos não criaram a filosofia, eles descobriram a capacidade do ser humano racionalizar e teorizar as coisas. Mesmo que os gregos não a tivessem descoberto, ela continuaria existindo. Portanto, tudo aquilo que sabemos ou não sabemos existem por si mesmas, cabe a nós descobri-las. Nada foi inventado, tudo foi descoberto. Tudo, anteriormente, já foi criado por alguém. Esse alguém é um ser onipotente, onipresente e onisciente.

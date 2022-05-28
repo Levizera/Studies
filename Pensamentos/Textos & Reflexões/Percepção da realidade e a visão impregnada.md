@@ -1,7 +1,0 @@
-# Percepção da realidade e a visão impregnada
-
-Ao analisar um objeto, o indivíduo deve levar em consideração o seu nível de interpretação sobre a realidade e o quanto a sua visão está impregnada pelos pensamentos e ideias do meio no qual convive. Para se ter noção sobre essas duas vertentes da análise, pode-se exercitar a observação dos próprios pensamentos. 
-
-O exercício se baseia, assim como o próprio nome já diz, em analisar os próprios pensamentos. De onde vem? Por que penso assim? O que farei com este pensamento? É bom ou ruim? Posso transformá-lo em conhecimento ou deixo que passe? 
-
-Ao fazer a observação dos próprios pensamentos e ideias, o indivíduo ganha consciência de sua miopia intelectual. O diálogo tem um papel fundamental nessa observação. Ao debater algumas ideias com outra pessoa, você pode, após o término do debate, analisar as suas ideias e a do seu interlocutor. Quais são as ideias comuns? Qual a sua opinião sobre os argumentos dados contra as suas ideias? Quais foram as suas ideias? Você acha que está certo, que contém a verdade? Por que está certo ou errado? Por que os argumentos do outro estão corretos ou errados? Qual a sua interpretação sobre os argumentos recebidos e dos seus? Pode-se mudar alguma coisa na sua visão? Dá para melhorar em algo? O que fazer a partir de agora?
