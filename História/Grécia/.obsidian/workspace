@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "3df0b860cb96d07c",
+    "id": "4a4b5e2de8318516",
     "type": "split",
     "children": [
       {
-        "id": "83362cad04a4bf9d",
+        "id": "dcd0b2fd1ffa7adf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literatura/Gregos.md",
-            "mode": "source",
+            "file": "Autores/Autores da Grécia antiga.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,11 +19,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "db89f0454fb51fb4",
+    "id": "22619a6d1c0dd9b2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "65730ff18fc12d6e",
+        "id": "d10880f3751acfde",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -31,7 +31,7 @@
         }
       },
       {
-        "id": "23c6e1a1747fc93a",
+        "id": "e48b4cd7516fd16d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -49,16 +49,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "4d32569d28c87b86",
+    "id": "8e805bc29e1eeed8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "52c78e72a2e05008",
+        "id": "c57def31e975633e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Literatura/Gregos.md",
+            "file": "Autores/Autores da Grécia antiga.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -72,17 +72,15 @@
     ],
     "currentTab": 0
   },
-  "active": "83362cad04a4bf9d",
+  "active": "dcd0b2fd1ffa7adf",
   "lastOpenFiles": [
-    "Literatura/Gregos.md",
-    "Literatura/Autores consagrados.md",
-    "Literatura/Romanos.md",
-    "Literatura/Ingleses.md",
-    "Literatura/Franceses.md",
-    "Literatura/Brasileiros.md",
-    "Literatura/Italianos.md",
-    "Literatura/Russos.md",
-    "Literatura/Espanhóis.md",
-    "Literatura/Alemães.md"
+    "Autores/Autores da Grécia antiga.md",
+    "Autores/Hesíodo.md",
+    "Autores/Aristófanes.md",
+    "Autores/Eurípedes.md",
+    "Autores/Sófocles.md",
+    "Autores/Ésquilo.md",
+    "Autores/Homero.md",
+    "Autores/Eurípides.md"
   ]
 }
