@@ -1,1 +1,0 @@
-1. Dante Alighieri
